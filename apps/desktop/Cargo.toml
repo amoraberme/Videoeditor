@@ -11,3 +11,4 @@ path = "src/main.rs"
 
 [dependencies]
 gpui = { workspace = true }
+tracking = { workspace = true }
